@@ -1,0 +1,32 @@
+#b_scroll{position: fixed; top:95%; right: 30%;}
+a{text-decoration:none}
+h1{ font-family:verdana;}
+h2{font-family:verdana;}
+.ttext p{
+     font-size:20px;
+}
+.ttext2 p{
+     font-size:28px;
+
+}
+.ttext3 p{
+     font-size:36px;
+}
+ .ttext p:hover { 
+    background-color: yellow;
+   
+}
+
+ .ttext2 p:hover { 
+    background-color: yellow;
+   
+}
+
+ .ttext3 p:hover { 
+    background-color: yellow;
+   
+}
+
+
+
+div.readmore{ font-size: 24px;}
